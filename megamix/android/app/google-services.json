@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "457143105862",
+    "firebase_url": "https://projeto-megamix.firebaseio.com",
+    "project_id": "projeto-megamix",
+    "storage_bucket": "projeto-megamix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457143105862:android:a32278f1fd1c465aac0d47",
+        "android_client_info": {
+          "package_name": "com.cursoflutter.mateus.megamix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457143105862-e7jfgfa42a411jo18neutb3fq4ifk6sb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwSrWt7z3tVJwMTVjz6OY9CQOGJoceyOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457143105862-e7jfgfa42a411jo18neutb3fq4ifk6sb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
